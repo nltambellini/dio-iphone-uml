@@ -17,6 +17,11 @@ Métodos: ligar(String numero), atender(), iniciarCorreioVoz()
 Navegador na Internet
 Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 
+## Entrega
+
+1. A diagramação das classes e interfaces está disponível no arquivo UML_iPhone.png.
+2. Os arquivos em java estão na pasta iPhone_UML.
+
 
 
 
